@@ -24,6 +24,7 @@
 		3DCF5D201EF68E5300AA9E28 /* harris10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D141EF68E5300AA9E28 /* harris10.jpg */; };
 		3DCF5D211EF68E5300AA9E28 /* harris11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D151EF68E5300AA9E28 /* harris11.jpg */; };
 		3DCF5D221EF68E5300AA9E28 /* william1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D161EF68E5300AA9E28 /* william1.jpg */; };
+		3DCF5D241EF6C52D00AA9E28 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCF5D231EF6C52D00AA9E28 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		3DCF5D141EF68E5300AA9E28 /* harris10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris10.jpg; sourceTree = "<group>"; };
 		3DCF5D151EF68E5300AA9E28 /* harris11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris11.jpg; sourceTree = "<group>"; };
 		3DCF5D161EF68E5300AA9E28 /* william1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = william1.jpg; sourceTree = "<group>"; };
+		3DCF5D231EF6C52D00AA9E28 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			children = (
 				3DC93AAE1EF68A0500625D80 /* AppDelegate.swift */,
 				3DC93AB01EF68A0500625D80 /* ViewController.swift */,
+				3DCF5D231EF6C52D00AA9E28 /* DetailViewController.swift */,
 				3DC93AB21EF68A0500625D80 /* Main.storyboard */,
 				3DC93AB51EF68A0500625D80 /* Assets.xcassets */,
 				3DC93AB71EF68A0500625D80 /* LaunchScreen.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DCF5D241EF6C52D00AA9E28 /* DetailViewController.swift in Sources */,
 				3DC93AB11EF68A0500625D80 /* ViewController.swift in Sources */,
 				3DC93AAF1EF68A0500625D80 /* AppDelegate.swift in Sources */,
 			);
