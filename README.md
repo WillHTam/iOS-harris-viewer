@@ -6,3 +6,4 @@
 - Many conditionals were unwillingly and forcefully unwrapped in the making of this app.
 - Used ViewController and TableViewController 
 - View by downloading and running in XCode
+- Heavily commented for reference

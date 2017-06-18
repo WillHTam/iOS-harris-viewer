@@ -9,8 +9,12 @@
 import UIKit
 
 class DetailViewController: UIViewController {
-
+// Create a screen of data called ViewController, based on UIViewController
+// types that start with UI come from UIKit
+// Changed to UITableViewController which provides the functionality to show rows of data that can be scrolled and selected. i.e. Settings
+    
     @IBOutlet weak var imageView: UIImageView!
+    // fm, path, and items below live inside viewDidLoad() and thus will be destroyed when the method finishes. So we want to attach data to ViewContoller so that it will persist
     // this line created by ctrl+dragging from storyboard
     // we need to use the image view inside code by creating a property that is attached to the layout
     // hover over the grey circle to the left
@@ -23,8 +27,11 @@ class DetailViewController: UIViewController {
     // hold the name of the image to load
     
     override func viewDidLoad() {
-        super.viewDidLoad()
+    // 'override' necessary to override the default Apple UIViewController
+    // called when the screen has loaded
         
+        super.viewDidLoad()
+        // super means to tell UIViewController to run its own code before running mine
         title = selectedImage
         // set the title of the view to the image name
         
