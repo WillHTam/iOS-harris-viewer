@@ -24,13 +24,30 @@ class DetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        title = selectedImage
+        // set the title of the view to the image name
+        
         if let imageToLoad = selectedImage {
             imageView.image  = UIImage(named: imageToLoad)
         }
         // if let unwraps the option in selectedImage
         // if it has a value (which it always will and thus the ? will not fail), it will be placed in imageToLoad and then passed to UIImage and laoded
     }
+    
+    
+    // below, tap to make the menu bar disappear if the image is tapped
+    // need to modify the hidesBarsOnTap property so that it is only true when the detail view cotnroller is showing
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        navigationController?.hidesBarsOnTap = true
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        navigationController?.hidesBarsOnTap = false
+    }
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
