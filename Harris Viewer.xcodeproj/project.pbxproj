@@ -12,6 +12,18 @@
 		3DC93AB41EF68A0500625D80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DC93AB21EF68A0500625D80 /* Main.storyboard */; };
 		3DC93AB61EF68A0500625D80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DC93AB51EF68A0500625D80 /* Assets.xcassets */; };
 		3DC93AB91EF68A0500625D80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DC93AB71EF68A0500625D80 /* LaunchScreen.storyboard */; };
+		3DCF5D171EF68E5300AA9E28 /* harris01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D0B1EF68E5300AA9E28 /* harris01.jpg */; };
+		3DCF5D181EF68E5300AA9E28 /* harris02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D0C1EF68E5300AA9E28 /* harris02.jpg */; };
+		3DCF5D191EF68E5300AA9E28 /* harris03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D0D1EF68E5300AA9E28 /* harris03.jpg */; };
+		3DCF5D1A1EF68E5300AA9E28 /* harris04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D0E1EF68E5300AA9E28 /* harris04.jpg */; };
+		3DCF5D1B1EF68E5300AA9E28 /* harris05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D0F1EF68E5300AA9E28 /* harris05.jpg */; };
+		3DCF5D1C1EF68E5300AA9E28 /* harris06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D101EF68E5300AA9E28 /* harris06.jpg */; };
+		3DCF5D1D1EF68E5300AA9E28 /* harris07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D111EF68E5300AA9E28 /* harris07.jpg */; };
+		3DCF5D1E1EF68E5300AA9E28 /* harris08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D121EF68E5300AA9E28 /* harris08.jpg */; };
+		3DCF5D1F1EF68E5300AA9E28 /* harris09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D131EF68E5300AA9E28 /* harris09.jpg */; };
+		3DCF5D201EF68E5300AA9E28 /* harris10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D141EF68E5300AA9E28 /* harris10.jpg */; };
+		3DCF5D211EF68E5300AA9E28 /* harris11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D151EF68E5300AA9E28 /* harris11.jpg */; };
+		3DCF5D221EF68E5300AA9E28 /* william1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DCF5D161EF68E5300AA9E28 /* william1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		3DC93AB51EF68A0500625D80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DC93AB81EF68A0500625D80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DC93ABA1EF68A0500625D80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DCF5D0B1EF68E5300AA9E28 /* harris01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris01.jpg; sourceTree = "<group>"; };
+		3DCF5D0C1EF68E5300AA9E28 /* harris02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris02.jpg; sourceTree = "<group>"; };
+		3DCF5D0D1EF68E5300AA9E28 /* harris03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris03.jpg; sourceTree = "<group>"; };
+		3DCF5D0E1EF68E5300AA9E28 /* harris04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris04.jpg; sourceTree = "<group>"; };
+		3DCF5D0F1EF68E5300AA9E28 /* harris05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris05.jpg; sourceTree = "<group>"; };
+		3DCF5D101EF68E5300AA9E28 /* harris06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris06.jpg; sourceTree = "<group>"; };
+		3DCF5D111EF68E5300AA9E28 /* harris07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris07.jpg; sourceTree = "<group>"; };
+		3DCF5D121EF68E5300AA9E28 /* harris08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris08.jpg; sourceTree = "<group>"; };
+		3DCF5D131EF68E5300AA9E28 /* harris09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris09.jpg; sourceTree = "<group>"; };
+		3DCF5D141EF68E5300AA9E28 /* harris10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris10.jpg; sourceTree = "<group>"; };
+		3DCF5D151EF68E5300AA9E28 /* harris11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harris11.jpg; sourceTree = "<group>"; };
+		3DCF5D161EF68E5300AA9E28 /* william1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = william1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +84,28 @@
 				3DC93AB51EF68A0500625D80 /* Assets.xcassets */,
 				3DC93AB71EF68A0500625D80 /* LaunchScreen.storyboard */,
 				3DC93ABA1EF68A0500625D80 /* Info.plist */,
+				3DCF5D0A1EF68E5300AA9E28 /* pictures */,
 			);
 			path = "Harris Viewer";
+			sourceTree = "<group>";
+		};
+		3DCF5D0A1EF68E5300AA9E28 /* pictures */ = {
+			isa = PBXGroup;
+			children = (
+				3DCF5D0B1EF68E5300AA9E28 /* harris01.jpg */,
+				3DCF5D0C1EF68E5300AA9E28 /* harris02.jpg */,
+				3DCF5D0D1EF68E5300AA9E28 /* harris03.jpg */,
+				3DCF5D0E1EF68E5300AA9E28 /* harris04.jpg */,
+				3DCF5D0F1EF68E5300AA9E28 /* harris05.jpg */,
+				3DCF5D101EF68E5300AA9E28 /* harris06.jpg */,
+				3DCF5D111EF68E5300AA9E28 /* harris07.jpg */,
+				3DCF5D121EF68E5300AA9E28 /* harris08.jpg */,
+				3DCF5D131EF68E5300AA9E28 /* harris09.jpg */,
+				3DCF5D141EF68E5300AA9E28 /* harris10.jpg */,
+				3DCF5D151EF68E5300AA9E28 /* harris11.jpg */,
+				3DCF5D161EF68E5300AA9E28 /* william1.jpg */,
+			);
+			path = pictures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +168,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DC93AB91EF68A0500625D80 /* LaunchScreen.storyboard in Resources */,
+				3DCF5D1B1EF68E5300AA9E28 /* harris05.jpg in Resources */,
+				3DCF5D211EF68E5300AA9E28 /* harris11.jpg in Resources */,
+				3DCF5D171EF68E5300AA9E28 /* harris01.jpg in Resources */,
+				3DCF5D1E1EF68E5300AA9E28 /* harris08.jpg in Resources */,
+				3DCF5D201EF68E5300AA9E28 /* harris10.jpg in Resources */,
+				3DCF5D1D1EF68E5300AA9E28 /* harris07.jpg in Resources */,
+				3DCF5D1F1EF68E5300AA9E28 /* harris09.jpg in Resources */,
 				3DC93AB61EF68A0500625D80 /* Assets.xcassets in Resources */,
+				3DCF5D1A1EF68E5300AA9E28 /* harris04.jpg in Resources */,
+				3DCF5D221EF68E5300AA9E28 /* william1.jpg in Resources */,
+				3DCF5D181EF68E5300AA9E28 /* harris02.jpg in Resources */,
 				3DC93AB41EF68A0500625D80 /* Main.storyboard in Resources */,
+				3DCF5D191EF68E5300AA9E28 /* harris03.jpg in Resources */,
+				3DCF5D1C1EF68E5300AA9E28 /* harris06.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +355,7 @@
 				3DC93ABF1EF68A0500625D80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
